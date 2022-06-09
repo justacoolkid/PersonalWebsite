@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "@types/react-transition-group": "^4.4.4",
+    "gsap": "^3.10.4",
+    "parallaxjs": "^2.1.0",
+    "swiper": "^8.2.2",
+    "vue-tailwind": "^2.5.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.0"
+  }
+}
